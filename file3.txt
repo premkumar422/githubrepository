@@ -1,0 +1,9 @@
+this is file3
+:q
+cd
+
+
+
+:q
+:q
+exit
